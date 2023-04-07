@@ -1,16 +1,5 @@
-# cinnamon_agency_animated_logo
+Cinnamon agency logo animation made with Flutter using canvas.
+Animation controller is connected to slider to allow manual mode and to provide visual feedback of the animation duration.
 
-A new Flutter project.
+https://user-images.githubusercontent.com/57459616/230636164-37379aad-1e58-49d5-b5f6-0d84ac10366c.mp4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
